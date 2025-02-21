@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henryWoohQuan
+- 👋 Hi, I’m @woohq 
 - 📖 I got interested in Computer Science in High School because I wanted to be a game dev.
 - 🖥️ I quickly realized how much you can do with Computer Science and wanted to persue a field in it.
 - 📚 I'm currently a Junior pursuing a B.S. in Computer Science and a Minor in Computational Analytics
