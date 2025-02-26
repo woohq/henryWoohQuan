@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @woohq 
-- 📖 I got interested in Computer Science in High School because I wanted to be a game dev.
-- 🖥️ I quickly realized how much you can do with Computer Science and wanted to persue a field in it.
 - 📚 I'm currently a Junior pursuing a B.S. in Computer Science and a Minor in Computational Analytics
 - 👀 I’m currently interested in Backend Software Engineering, Computational Analytics, and Graphics Programming
-- 🌱 I’m currently learning about RESTful APIs, React, and Robot Framework
-- 💞️ I’m currently searching for a Summer internship for 2025, but I'm also open to Co-Ops or other seasonal internships
-- 📫 How to reach me henry@henryquan.tech
+- 🌱 Outside my classes I’m currently learning React, C#, and Unity
+- 💞️ I’m currently searching for a Summer internship for 2025
+- 📫 How to reach me h3nry.quan@gmail.com
 - ⚡ Fun fact: I'm a 4th degree black belt
 
 <!---
